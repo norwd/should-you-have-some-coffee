@@ -1,4 +1,4 @@
-# should-you-have-some-coffee
+# Should You Have Some Coffee?
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7817d0bf-33b3-4275-89cc-0353e80f914e/deploy-status)](https://app.netlify.com/sites/should-you-have-some-coffee/deploys)
 
